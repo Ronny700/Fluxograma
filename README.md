@@ -2,5 +2,6 @@
 Aula 1 SENAI
 
 
-Pensamento lógico, imtrodução a computação
+Pensamento lógico, 
+Imtrodução a computação
 Lucidchart
